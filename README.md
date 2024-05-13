@@ -9,7 +9,8 @@
     <img src="https://img.shields.io/badge/Leetcode-blue?style=for-the-badge&logo=Leetcode&logoColor=white" alt="Leetcode Badge"/>
   </a>
 </div>
+<div align="center">
 <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
-
+</div>
 
 

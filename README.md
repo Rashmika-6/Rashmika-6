@@ -23,10 +23,10 @@
 
 ### :man_technologist: About Me :
 
-Welcome to my GitHub profile! I'm a MCA final year Student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India, specializing in Java. 
+Welcome to my GitHub profile! I'm Rashmi Kumari ,Student of Computer Science <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India, specializing in Java. 
 
+- ✍️ I'm pursuing MCA from NIET college, Greater Noida.
 - 💻 Currently, I'm working as a Intern (Java full Stack Developer), utilizing my expertise in Java, SpringBoot and Angular to develop robust OnlineRecruitment applications.
-- ✍️ I want to be a Full Stack Developer.
 - ⚡ In my free time, I love exploring the latest tech articles and staying updated with emerging technologies and best practices.
 - 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Rashmi-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rashmikasingh6/")
 

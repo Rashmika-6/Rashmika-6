@@ -48,6 +48,11 @@ Welcome to my GitHub profile! I'm a MCA final year Student <img src="https://med
  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman"  alt="Postman" width="40" height="40"/>&nbsp;
 
 </div>
+---
+
+### 😉: Programming Joke :
+<!-- Markdown -->
+![Jokes Card](https://readme-jokes.vercel.app/api)
 
 
 

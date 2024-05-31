@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://cdn.dribbble.com/users/1519660/screenshots/4536550/girl-_-laptop.gif" width="250" />
+  <img src="https://cdn.dribbble.com/users/1519660/screenshots/4536550/girl-_-laptop.gif" width="200" />
 </div>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/rashmikasingh6/">
